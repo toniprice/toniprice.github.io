@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 2em 5em 20em 5em;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  color: #000;
+  background-color: #fff;
+}
+
+#outer {
+  width: 70%;
+  margin: 0 15% 0 15%;
+  padding: 0;
+  border-top: 15px solid #8a5e8f;
+}
+
+#header {
+  margin: 0;
+  padding: 0 0 60px 0;
+  background-color: #a67a77;
+  border-bottom: 8px solid #b5976d;
+}
+
+#header img {
+  float: left;
+  padding: 5px;
+  height: 50px;
+  width: 68px;
+}
+
+#content {
+  padding: 25px;
+  margin: 0;
+}
+
+#footer {
+  margin: 0;
+  padding: 5px;
+  text-align: center;
+  font-style: italic;
+  font-size: small;
+  color: #fff;
+  background-color: #963C72;
+}
+
+.proj-list {
+  padding-top: 10px;
+}
+
+.proj-list ul {
+  padding: 5px 0 3px 5px;
+  list-style-type: none;
+}
+
+.proj-list ul a {
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+h1 {
+  font-size: 150%;
+  color: #a30043;
+  background-color: transparent;
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 120%;
+  color: #a30043;
+  background-color: transparent;
+  letter-spacing: 0.2em;
+}
+
+h3 {
+  font-size: 100%;
+  color: #b5976d;
+  background-color: transparent;
+  letter-spacing: 0.1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.link1, a.link1:link {
+  padding: 0;
+  color: #a67a77;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+a.link1:visited {
+  color: #8a5e8f;
+  background-color: transparent;
+}
+
+a.link1:hover, a.link1:active {
+  color: #b5976d;
+  background-color: transparent;
+}
+
+/*# sourceMappingURL=projects.css.map */
