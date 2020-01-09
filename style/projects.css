@@ -16,16 +16,14 @@ body {
 
 #header {
   margin: 0;
-  padding: 0 0 60px 0;
+  padding: 0 0 90px 0;
   background-color: #a67a77;
   border-bottom: 8px solid #b5976d;
 }
 
 #header img {
   float: left;
-  padding: 5px;
-  height: 50px;
-  width: 68px;
+  padding: 10px;
 }
 
 #content {
